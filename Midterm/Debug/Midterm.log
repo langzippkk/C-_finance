@@ -1,0 +1,31 @@
+﻿Build started 2017/11/16 16:47:57.
+     1>Project "C:\Users\nian yi\Documents\Visual Studio 2013\Projects\Midterm\Midterm\Midterm.vcxproj" on node 2 (Rebuild target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Midterm.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt HW8_NianYi.cpp Midterm_Nian_Yi.cpp sample3.cpp samplecode2.cpp Source.cpp sample1.cpp Midterm_NianYi.cpp HW6_Nian_Yi.cpp
+         HW6_Nian_Yi.cpp
+         Midterm_NianYi.cpp
+         sample1.cpp
+         Source.cpp
+         samplecode2.cpp
+         sample3.cpp
+         Midterm_Nian_Yi.cpp
+     1>c:\users\nian yi\documents\visual studio 2013\projects\midterm\midterm\midterm_nian_yi.cpp(195): warning C4018: '<=' : signed/unsigned mismatch
+         HW8_NianYi.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\nian yi\Documents\Visual Studio 2013\Projects\Midterm\Debug\HW6_NianYi.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\nian yi\Documents\Visual Studio 2013\Projects\Midterm\Debug\HW6_NianYi.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\nian yi\Documents\Visual Studio 2013\Projects\Midterm\Debug\HW6_NianYi.lib" /MACHINE:X86 Debug\HW8_NianYi.obj
+         Debug\Midterm_Nian_Yi.obj
+         Debug\sample3.obj
+         Debug\samplecode2.obj
+         Debug\Source.obj
+         Debug\sample1.obj
+         Debug\Midterm_NianYi.obj
+         Debug\HW6_Nian_Yi.obj
+         ..\..\newmat_library\Debug\newmat_library.lib
+         Midterm.vcxproj -> C:\Users\nian yi\Documents\Visual Studio 2013\Projects\Midterm\Debug\HW6_NianYi.exe
+     1>Done Building Project "C:\Users\nian yi\Documents\Visual Studio 2013\Projects\Midterm\Midterm\Midterm.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.63
